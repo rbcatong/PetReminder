@@ -3,7 +3,11 @@ import React, {Component} from 'react'
 class Navbar extends Component {
     render(){
         return(
-            <h1>Hello World bitch</h1>
+            <div>
+            <h1>Pet Reminder</h1>
+            <h2>Account Information</h2>
+            //NavBar with list of pets. 
+            </div>
         )
     }
 }
